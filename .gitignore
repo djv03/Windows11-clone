@@ -1,0 +1,6 @@
+# ignored/ignore.html
+# ignored/ignore2.html
+# ignored/nomean.js
+
+ignored/
+# line 5 has same effect as line 1,2,3 combined
